@@ -1,0 +1,11 @@
+.nav-link {
+    color: var(--bs-gray-dark);
+}
+
+.nav-link:hover, .nav-link:focus {
+    color: var(--bs-dark);
+}
+
+.nav-pills .nav-link.active {
+    background-color: var(--bs-gray);
+}

@@ -9,3 +9,16 @@
 .nav-pills .nav-link.active {
     background-color: var(--bs-gray);
 }
+
+a {
+    color: var(--bs-dark);
+}
+
+
+a:hover {
+    color: var(--bs-gray-dark);
+}
+
+.no-underline {
+    text-decoration: none;
+}
